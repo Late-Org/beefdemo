@@ -8,6 +8,7 @@ Exercises
 4. Create a random computer player.
 5. How would you detect a winner?
 
+
 """
 
 from turtle import *
