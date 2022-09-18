@@ -1,3 +1,3 @@
-# bfdemo
+# BEEF demo
 
-Tämä on demo repository Playbook kehitystä varten
+Tämä on demo repository Biiffiä pelikehitystä varten
